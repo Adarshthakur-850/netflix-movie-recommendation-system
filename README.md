@@ -20,12 +20,19 @@ Scalable pipeline for large movie datasets
 
 🗂️ Project Structure
 netflix-movie-recommendation-system/
+
 │
+
 ├── data/                  # Raw and processed datasets
+
 ├── notebooks/             # Jupyter notebooks for EDA and modeling
+
 ├── src/
+
 │   └── data/              # Data processing scripts
+
 ├── requirements.txt
+
 └── README.md
 
 📊 Dataset
