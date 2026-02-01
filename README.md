@@ -4,6 +4,8 @@ A Machine Learning–based movie recommendation system that suggests personalize
 
 This project demonstrates end-to-end data processing, feature engineering, similarity modeling, and recommendation generation using Python, Pandas, and Scikit-Learn.
 
+---
+
 🚀 Features
 
 Content-Based Movie Recommendation
@@ -17,6 +19,8 @@ Data Cleaning and Feature Engineering
 Interactive recommendation through Jupyter Notebook / script
 
 Scalable pipeline for large movie datasets
+
+---
 
 🗂️ Project Structure
 netflix-movie-recommendation-system/
@@ -34,6 +38,8 @@ netflix-movie-recommendation-system/
 ├── requirements.txt
 
 └── README.md
+
+---
 
 📊 Dataset
 
@@ -55,6 +61,8 @@ Popularity metrics
 
 The recommendation is built purely on movie content (no user history required).
 
+---
+
 🧠 How the Recommendation Works
 
 Combine important textual features (genres, cast, crew, keywords, overview)
@@ -66,6 +74,8 @@ Convert text into numerical vectors using CountVectorizer / TF-IDF
 Compute Cosine Similarity between movie vectors
 
 For a given movie, retrieve top N most similar movies
+
+---
 
 🛠️ Tech Stack
 
@@ -81,10 +91,14 @@ Jupyter Notebook
 
 Matplotlib / Seaborn (for EDA)
 
+---
+
 ⚙️ Installation
 git clone https://github.com/Adarshthakur-850/netflix-movie-recommendation-system.git
 cd netflix-movie-recommendation-system
 pip install -r requirements.txt
+
+---
 
 ▶️ Usage
 
@@ -112,6 +126,8 @@ Top 5 Recommended Movies:
 4. Memento
 5. Tenet
 
+---
+
 📈 Exploratory Data Analysis
 
 Genre distribution
@@ -121,6 +137,8 @@ Most frequent actors
 Keyword frequency
 
 Popular movies by count
+
+---
 
 🧩 Future Improvements
 
@@ -133,6 +151,8 @@ User login and personalized recommendations
 Deployment on cloud
 
 Integration with real-time Netflix dataset
+
+---
 
 📌 Learning Outcomes
 
@@ -148,13 +168,19 @@ ML pipeline design
 
 Practical recommender system implementation
 
+---
+
 🤝 Contributing
 
 Contributions, issues, and suggestions are welcome.
 
+---
+
 📜 License
 
 This project is for educational and learning purposes.
+
+---
 
 👤 Author
 
